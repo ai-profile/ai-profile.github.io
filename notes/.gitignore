@@ -24,7 +24,6 @@ Thumbs.db
 
 # AI agent files (not for repo)
 ai-outcome/
-research/
 food/
 memory/
 HEARTBEAT.md
@@ -34,5 +33,4 @@ TOOLS.md
 USER.md
 IDENTITY.md
 todo.md
-linkedin_post_*.md
 .openclaw/
