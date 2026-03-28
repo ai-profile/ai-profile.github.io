@@ -1,41 +1,17 @@
-# Website
+# AI Profile Documentation
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This repository contains the source for the AI Profile documentation site, built with [Docusaurus](https://docusaurus.io/).
 
-## Installation
-
-```bash
-yarn
-```
-
-## Local Development
-
-```bash
-yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```bash
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## Structure
+- `website/`: Docusaurus project source (docs, blog, custom components).
+- Documentation content is organized under `website/docs/`.
 
 ## Deployment
+The site is automatically deployed to GitHub Pages via the `gh-pages` branch.
 
-Using SSH:
-
+To build and deploy manually:
 ```bash
-USE_SSH=true yarn deploy
+cd website
+npm run build
+npm run deploy
 ```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
