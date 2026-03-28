@@ -1,0 +1,23 @@
+{
+  "id": "research/pdf-pipeline-research-report",
+  "title": "PDF Extraction Pipeline - Competitive Analysis",
+  "description": "Tổng quan",
+  "source": "@site/docs/research/pdf-pipeline-research-report.md",
+  "sourceDirName": "research",
+  "slug": "/research/pdf-pipeline-research-report",
+  "permalink": "/notes/docs/research/pdf-pipeline-research-report",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PDF OCR Engines - Deep Dive Research",
+    "permalink": "/notes/docs/research/pdf-ocr-engines-deep-dive"
+  },
+  "next": {
+    "title": "PDF EXTRACTION PIPELINE - RESEARCH REPORT",
+    "permalink": "/notes/docs/research/pdf-pipeline-research"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "linkedin/linkedin_post_final_version",
+  "title": "Tham Vọng X100, Hay Là X1.1?",
+  "description": "Làm software engineer lâu rồi, tôi thấy có hai kiểu người.",
+  "source": "@site/docs/linkedin/linkedin_post_final_version.md",
+  "sourceDirName": "linkedin",
+  "slug": "/linkedin/linkedin_post_final_version",
+  "permalink": "/notes/docs/linkedin/linkedin_post_final_version",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Khi Một Bức Thư Khiến Tôi Nhận Ra: Đã Đến Lúc Đun Sôi Đại Dương",
+    "permalink": "/notes/docs/linkedin/linkedin_post_dun_soi_dai_duong_focus_garry_tan"
+  },
+  "next": {
+    "title": "Khi Cả Đại Dương Bắt Đầu Sôi",
+    "permalink": "/notes/docs/linkedin/linkedin_post_khi_dai_duong_bat_dau_soi"
+  }
+}

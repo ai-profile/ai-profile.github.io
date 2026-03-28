@@ -1,0 +1,22 @@
+{
+  "id": "intro",
+  "title": "Welcome",
+  "description": "A personal knowledge base — engineering research, quick notes, and accumulated insights.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/notes/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "10 Năm, Một Người Thầy, Và Quyết Định Đun Sôi Đại Dương",
+    "permalink": "/notes/docs/linkedin/linkedin_post_10_nam_va_quyet_dinh_dun_soi_dai_duong"
+  }
+}

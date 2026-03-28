@@ -1,0 +1,23 @@
+{
+  "id": "research/pdf-extraction-research",
+  "title": "PDF Extraction Pipeline - Research Summary",
+  "description": "Ngày: 21/03/2026",
+  "source": "@site/docs/research/pdf-extraction-research.md",
+  "sourceDirName": "research",
+  "slug": "/research/pdf-extraction-research",
+  "permalink": "/notes/docs/research/pdf-extraction-research",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nghiên Cứu: Tăng Độ Chính Xác PDF Extraction",
+    "permalink": "/notes/docs/research/pdf-extraction-accuracy-2025"
+  },
+  "next": {
+    "title": "PDF OCR Engines - Deep Dive Research",
+    "permalink": "/notes/docs/research/pdf-ocr-engines-deep-dive"
+  }
+}

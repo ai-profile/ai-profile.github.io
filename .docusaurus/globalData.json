@@ -1,0 +1,108 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/notes/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/notes/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/notes/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "linkedin/linkedin_post_10_nam_va_quyet_dinh_dun_soi_dai_duong",
+              "path": "/notes/docs/linkedin/linkedin_post_10_nam_va_quyet_dinh_dun_soi_dai_duong",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "linkedin/linkedin_post_ai_khong_thay_the_ban",
+              "path": "/notes/docs/linkedin/linkedin_post_ai_khong_thay_the_ban",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "linkedin/linkedin_post_doc_thu_hoc_bai_dun_soi_dai_duong",
+              "path": "/notes/docs/linkedin/linkedin_post_doc_thu_hoc_bai_dun_soi_dai_duong",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "linkedin/linkedin_post_dun_soi_dai_duong_focus_garry_tan",
+              "path": "/notes/docs/linkedin/linkedin_post_dun_soi_dai_duong_focus_garry_tan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "linkedin/linkedin_post_final_version",
+              "path": "/notes/docs/linkedin/linkedin_post_final_version",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "linkedin/linkedin_post_khi_dai_duong_bat_dau_soi",
+              "path": "/notes/docs/linkedin/linkedin_post_khi_dai_duong_bat_dau_soi",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "linkedin/linkedin_post_suoi_tu_nhien",
+              "path": "/notes/docs/linkedin/linkedin_post_suoi_tu_nhien",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "linkedin/linkedin_post_tu_nhien_ca_nhan_hoa",
+              "path": "/notes/docs/linkedin/linkedin_post_tu_nhien_ca_nhan_hoa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research/pdf_extraction_pipeline/analysis/pricing_model",
+              "path": "/notes/docs/research/pdf_extraction_pipeline/analysis/pricing_model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research/pdf_extraction_pipeline/plan",
+              "path": "/notes/docs/research/pdf_extraction_pipeline/plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research/pdf-extraction-accuracy-2025",
+              "path": "/notes/docs/research/pdf-extraction-accuracy-2025",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research/pdf-extraction-research",
+              "path": "/notes/docs/research/pdf-extraction-research",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research/pdf-ocr-engines-deep-dive",
+              "path": "/notes/docs/research/pdf-ocr-engines-deep-dive",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research/pdf-pipeline-research",
+              "path": "/notes/docs/research/pdf-pipeline-research",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research/pdf-pipeline-research-report",
+              "path": "/notes/docs/research/pdf-pipeline-research-report",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/notes/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

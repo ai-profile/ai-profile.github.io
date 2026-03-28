@@ -1,0 +1,19 @@
+{
+  "id": "research/pdf_extraction_pipeline/plan",
+  "title": "PDF Extraction Pipeline - Research Project Plan",
+  "description": "🎯 Mục tiêu",
+  "source": "@site/docs/research/pdf_extraction_pipeline/plan.md",
+  "sourceDirName": "research/pdf_extraction_pipeline",
+  "slug": "/research/pdf_extraction_pipeline/plan",
+  "permalink": "/notes/docs/research/pdf_extraction_pipeline/plan",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pricing Model Analysis - Parseur Usage",
+    "permalink": "/notes/docs/research/pdf_extraction_pipeline/analysis/pricing_model"
+  }
+}

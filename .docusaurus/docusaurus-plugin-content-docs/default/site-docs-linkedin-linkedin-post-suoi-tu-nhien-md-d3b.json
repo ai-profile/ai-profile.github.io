@@ -1,0 +1,23 @@
+{
+  "id": "linkedin/linkedin_post_suoi_tu_nhien",
+  "title": "Nỗi Sợ Lớn Nhất Không Phải AI, Mà Là Tham Vọng Quá Nhỏ",
+  "description": "Tôi từng nghĩ mình hiểu về AI lắm.",
+  "source": "@site/docs/linkedin/linkedin_post_suoi_tu_nhien.md",
+  "sourceDirName": "linkedin",
+  "slug": "/linkedin/linkedin_post_suoi_tu_nhien",
+  "permalink": "/notes/docs/linkedin/linkedin_post_suoi_tu_nhien",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Khi Cả Đại Dương Bắt Đầu Sôi",
+    "permalink": "/notes/docs/linkedin/linkedin_post_khi_dai_duong_bat_dau_soi"
+  },
+  "next": {
+    "title": "Tôi Từng Sợ AI Lấy Việc Của Mình, Cho Đến Khi Đọc Được Bài Này",
+    "permalink": "/notes/docs/linkedin/linkedin_post_tu_nhien_ca_nhan_hoa"
+  }
+}

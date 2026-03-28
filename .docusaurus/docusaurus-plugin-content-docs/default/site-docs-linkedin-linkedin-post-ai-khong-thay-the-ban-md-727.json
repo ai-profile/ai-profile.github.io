@@ -1,0 +1,23 @@
+{
+  "id": "linkedin/linkedin_post_ai_khong_thay_the_ban",
+  "title": "AI không thay thế bạn.",
+  "description": "⸻",
+  "source": "@site/docs/linkedin/linkedin_post_ai_khong_thay_the_ban.md",
+  "sourceDirName": "linkedin",
+  "slug": "/linkedin/linkedin_post_ai_khong_thay_the_ban",
+  "permalink": "/notes/docs/linkedin/linkedin_post_ai_khong_thay_the_ban",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "10 Năm, Một Người Thầy, Và Quyết Định Đun Sôi Đại Dương",
+    "permalink": "/notes/docs/linkedin/linkedin_post_10_nam_va_quyet_dinh_dun_soi_dai_duong"
+  },
+  "next": {
+    "title": "Đọc Một Bức Thư, Học Một Bài Học, Và Quyết Định Đun Sôi Đại Dương",
+    "permalink": "/notes/docs/linkedin/linkedin_post_doc_thu_hoc_bai_dun_soi_dai_duong"
+  }
+}
