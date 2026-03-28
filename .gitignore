@@ -1,9 +1,9 @@
 node_modules/
 .DS_Store
 dist/
-docusaurus_project/node_modules/
-docusaurus_project/build/
-docusaurus_project/.docusaurus/
+notes/node_modules/
+notes/build/
+notes/.docusaurus/
 .env
 
 # Logs

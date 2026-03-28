@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "npx serve .",
-    "dev": "cd docusaurus_project && npm run dev",
-    "build": "cd docusaurus_project && npm run build && cd .. && rm -rf dist && mkdir -p dist/notes && cp index.html dist/ && cp -r docusaurus_project/build/* dist/notes/"
+    "dev": "cd notes && npm run dev",
+    "build": "cd notes && npm run build && cd .. && rm -rf dist && mkdir -p dist/notes && cp index.html dist/ && cp -r notes/build/* dist/notes/"
   }
 }
