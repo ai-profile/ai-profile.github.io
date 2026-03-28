@@ -1,9 +1,28 @@
+# Dependencies
 node_modules/
-website/node_modules/
-website/build/
+
+# Build output
+build/
+.docusaurus/
+
+# Environment
 .env
-npm-debug.log
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
 .DS_Store
+Thumbs.db
+
+# Editor
+.vscode/settings.json
+.idea/
+
+# AI agent files (not for repo)
 ai-outcome/
 research/
 food/
