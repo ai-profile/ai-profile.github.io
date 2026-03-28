@@ -4,9 +4,10 @@ website/build/
 .env
 npm-debug.log
 .DS_Store
-AIGit/
-memory/
+ai-outcome/
+research/
 food/
+memory/
 HEARTBEAT.md
 AGENTS.md
 SOUL.md
