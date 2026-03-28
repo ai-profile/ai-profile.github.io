@@ -1,10 +1,9 @@
 node_modules/
-website/build/
 website/node_modules/
+website/build/
 .env
 npm-debug.log
 .DS_Store
-.openclaw/
 AIGit/
 memory/
 food/
@@ -16,3 +15,4 @@ USER.md
 IDENTITY.md
 todo.md
 linkedin_post_*.md
+.openclaw/
